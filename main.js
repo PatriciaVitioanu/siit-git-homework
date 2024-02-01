@@ -1,1 +1,1 @@
-console.log(Something)
+console.log('This is my first GIT homework')
